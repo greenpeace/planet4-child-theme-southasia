@@ -12,3 +12,6 @@ Tags: light, accessibility-ready
 Text Domain: planet4-child-theme-southasia
 */
 
+.navbar .menu-item {
+  display: none;
+}
